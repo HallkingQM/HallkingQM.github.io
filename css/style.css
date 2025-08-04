@@ -1,53 +1,36 @@
-body
-{
-    background: #1e1f24;
-    color: #333;
-    text-align: center;
-    font-family: Arial;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+.body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(245, 246, 248); /* o cualquier fondo claro */
+    color: #000; /* texto negro */
 }
 
-#cabecera
-{
-    background: #37488b;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+.chart-container {
+    width: 100%;
+    max-width: 400px;
+    height: 40px;
+    margin: auto;
+}
+
+canvas {
+    max-width: 90% !important;
+    max-height: 85% !important;
+}
+
+.bg-dark-blue {
+  background-color: #1f2a48;
+}
+
+.titulo > h1{
+    font-size: 2.8rem;
     font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
+    font-family: 'Montserrat', sans-serif;
 }
 
-#cabecera #logo
-{
-    width: 20px;
-    vertical-align: middle;
+.cabecera{
+    background-color: rgb(255, 255, 255);
 }
 
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
+.cuerpo{
+    background-color: rgb(245, 246, 248);
+    padding: 20px 0 0 0;
 }
-
-#container
-{
-    width: 70%;
-    padding: 0;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
-
-#container h1
-{
-    font-size: 20px;
-}
-
-#footer{
-    background: #777;
-    color: white;
-    text-align: center;
-    padding: 0.5em;

@@ -186,54 +186,7 @@
      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <script>
-        const barCtx = document.getElementById('barChart').getContext('2d');
-        new Chart(barCtx, {
-        type: 'bar',
-        data: {
-            labels: ['HTML', 'CSS', 'JavaScript', 'Python', 'C#', 'PHP'],
-            datasets: [{
-            label: 'Nivel',
-            data: [80, 70, 90, 60, 50, 40],
-            backgroundColor: 'rgb(31, 42, 72)' // Color personalizado
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-            y: {
-                beginAtZero: true,
-                max: 100
-            }
-            }
-        }
-        });
 
-        const radarCtx = document.getElementById('radarChart').getContext('2d');
-        new Chart(radarCtx, {
-        type: 'radar',
-        data: {
-            labels: ['Comunicación', 'Liderazgo', 'Trabajo en equipo', 'Resolución', 'Creatividad', 'Gestión de tiempo'],
-            datasets: [{
-            label: 'Nivel',
-            data: [70, 60, 85, 75, 65, 80],
-            backgroundColor: 'rgb(31, 42, 72)',
-            borderColor: 'rgba(31, 42, 72, 1)',
-            borderWidth: 2,
-            pointBackgroundColor: 'rgba(31, 42, 72, 1)' // color de los puntos
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-            r: {
-                suggestedMin: 0,
-                suggestedMax: 100
-            }
-            }
-        }
-        });
     </script>
 </body>
 </html>

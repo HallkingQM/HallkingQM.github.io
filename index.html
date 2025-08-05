@@ -172,12 +172,6 @@
                     <h2 class="pb-3">Habilidades</h2>
                     <canvas id="radarChart"></canvas>
                 </div>
-
-                <!-- Gráfico de radar -->
-                <div class="col-12 col-md-12 col-lg-6">
-                    <h2 class="pb-3">herramientas </h2>
-                    <canvas id="barChart2"></canvas>
-                </div>
             </div>
         </section>
 
@@ -200,29 +194,6 @@
                 datasets: [{
                 label: 'Nivel',
                 data: [80, 75, 65, 45, 70, 80, 75],
-                backgroundColor: 'rgb(31, 42, 72)' // Color personalizado
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                y: {
-                    beginAtZero: true,
-                    max: 100
-                }
-                }
-            }
-        });
-
-        const barCtx = document.getElementById('barChart2').getContext('2d');
-        new Chart(barCtx, {
-            type: 'bar',
-            data: {
-                labels: ['Git & GitHub', 'Figma', 'Docker', 'Terminal / Línea de comandos'],
-                datasets: [{
-                label: 'Nivel',
-                data: [75, 60, 30, 70],
                 backgroundColor: 'rgb(31, 42, 72)' // Color personalizado
                 }]
             },

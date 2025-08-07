@@ -1,7 +1,8 @@
-.body {
+body {
     font-family: 'Lato', sans-serif;
     background-color: rgb(245, 246, 248); /* o cualquier fondo claro */
     color: #000; /* texto negro */
+    background-color: rgb(245, 246, 248);
 }
 
 .chart-container {
@@ -12,7 +13,7 @@
 }
 
 canvas {
-    max-width: 90% !important;
+    max-width: 100% !important;
     max-height: 85% !important;
 }
 
@@ -33,4 +34,5 @@ canvas {
 .cuerpo{
     background-color: rgb(245, 246, 248);
     padding: 20px 0 0 0;
+    min-height: 100%;
 }

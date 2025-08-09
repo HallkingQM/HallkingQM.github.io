@@ -41,9 +41,9 @@ const ctx = document.getElementById('toolsChart');
 new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['Git and GitHub', 'Docker', 'Figma', 'Terminal', 'VS Code'],
+        labels: ['Git and GitHub', 'Docker', 'Figma', 'Terminal', 'Workbench'],
         datasets: [{
-            data: [90, 70, 75, 80, 85],
+            data: [90, 70, 75, 80, 75],
             backgroundColor: 'rgb(31, 42, 72)'
         }]
     },

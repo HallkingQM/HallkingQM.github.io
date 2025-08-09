@@ -1,75 +1,79 @@
-# Portafolio Personal - Hallking Quesada Medina
+# 💼 Portafolio de Hallking Quesada Medina
 
-![Captura del Portafolio](img/preview.png)
+![Portafolio Screenshot](img/preview.png)
 
-## 📌 Descripción
-Este es mi portafolio personal, donde presento mi trayectoria académica, certificaciones profesionales, habilidades técnicas y proyectos de desarrollo.  
-Está diseñado para ser totalmente responsivo, con un estilo moderno y soporte bilingüe (Español 🇩🇴 / Inglés 🇬🇧).
+Bienvenido/a a mi portafolio personal. Aquí encontrarás una selección de mis **proyectos de desarrollo web**, mi **trayectoria académica**, certificaciones y habilidades técnicas.  
+Diseñado para ser **rápido, responsive y bilingüe** (Español 🇩🇴 / Inglés 🇬🇧).
 
-## 🚀 Características
-- Diseño adaptable para computadoras y dispositivos móviles.
-- Sección con mi historial académico y certificaciones.
-- Galería de proyectos con descripciones y enlaces a demos en vivo y repositorios en GitHub.
-- Navegación bilingüe con iconos de bandera para cambiar de idioma.
-- Integración con redes sociales: LinkedIn, GitHub y X (Twitter).
-- Etiquetas **Open Graph** optimizadas para una mejor visualización en redes sociales.
+---
 
-## 🛠 Tecnologías utilizadas
-- **HTML5** y **CSS3**
-- **Bootstrap 5**
-- **Bootstrap Icons**
-- **JavaScript (Vanilla)**
-- **Chart.js** para la visualización de habilidades
-- **Imágenes responsivas** (PNG, SVG)
-- **Meta Tags** con protocolo Open Graph
+## 🚀 Tecnologías Clave
+- **Frontend:** HTML5, CSS3, Bootstrap 5, Bootstrap Icons
+- **Backend:** PHP, MySQL, Laravel
+- **Otros:** JavaScript, Chart.js, Docker, Git/GitHub
+- **IA y Contenidos Digitales:** ChatGPT, DALL·E, Hugging Face
 
-## 📂 Estructura del proyecto
+---
 
-```
-project/
-│
-├── css/
-│ ├── bootstrap.min.css
-│ └── style.css
-│
-├── img/
-│ ├── HallkingFoto-min.png
-│ ├── DO.png
-│ ├── EN.png
-│ └── preview.png
-│
-├── js/
-│ ├── bootstrap.bundle.min.js
-│ └── charts.js
-│
-├── index.html
-├── educacion.html
-├── proyectos.html
-├── EN/
-│ ├── education.html
-│ └── projects.html
-└── README.md
-```
+## 📂 Proyectos Destacados
 
-## 🔧 Instalación y uso
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/portfolio.git
+### 📝 [Guestbook](#)
+Sistema para el registro y gestión de visitantes en una institución.  
+**Tecnologías:** PHP, MySQL  
+[🔗 Live Demo](#) | [💻 Código](#)
 
+---
 
-2. Para ejecutarlo en un servidor local, puedes usar la extensión Live Server de VS Code o cualquier servidor estático:
-   ```bash
-    npx serve
+### 👗 [Sistema de Colecciones](#)
+Aplicación web para gestionar el desarrollo de colecciones en la industria de la moda.  
+**Tecnologías:** PHP, Bootstrap, MySQL  
+[🔗 Live Demo](#) | [💻 Código](#)
 
-🌐 Idiomas disponibles
--Español (es_DO) → Versión por defecto
--Inglés (en_US) → Versión alternativa
+---
 
-El cambio de idioma se realiza desde los iconos de bandera en la barra de navegación.
+### 👥 [Directorio de Personal](#)
+Directorio interactivo para búsqueda y contacto de personal en una organización.  
+**Tecnologías:** PHP, MySQL, Bootstrap  
+[🔗 Live Demo](#) | [💻 Código](#)
 
-📜 Licencia
-Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo con la debida atribución.
+---
 
--💡 Autor: Hallking Quesada Medina
--📧 HallkingQM@Hotmail.com
--🔗 LinkedIn | GitHub | X (Twitter)
+### 🛒 [E-commerce de Ropa](#)
+Tienda online con carrito, pasarela de pago y panel administrativo.  
+**Tecnologías:** Laravel, Vue.js, MySQL  
+[🔗 Live Demo](#) | [💻 Código](#)
+
+---
+
+### 🌦 [Weather API](#)
+API RESTful que proporciona datos meteorológicos en tiempo real.  
+**Tecnologías:** Python (Flask)  
+[📄 Documentación](#) | [💻 Código](#)
+
+---
+
+### ✍ [Blog Personal](#)
+Plataforma de blog con gestión de contenido (CMS) desde cero.  
+**Tecnologías:** Laravel, Vue.js  
+[🔗 Live Demo](#) | [💻 Código](#)
+
+---
+
+## 📜 Sobre mí
+Soy **Desarrollador Full-Stack** con experiencia en proyectos web, integración de APIs, optimización de rendimiento y herramientas de Inteligencia Artificial aplicadas al desarrollo.
+
+📧 [HallkingQM@Hotmail.com](mailto:HallkingQM@Hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hallkingquesadamedina/) | [GitHub](https://github.com/HallkingQM) | [X (Twitter)](https://x.com/HallkingM66318)
+
+---
+
+## 🌐 Idiomas
+- **Español (es_DO)** → Versión principal  
+- **Inglés (en_US)** → Versión alternativa  
+
+Cambia de idioma fácilmente con los iconos de bandera en la barra de navegación.
+
+---
+
+## 📄 Licencia
+Este proyecto está bajo la **Licencia MIT** – puedes usarlo, modificarlo y compartirlo con atribución.

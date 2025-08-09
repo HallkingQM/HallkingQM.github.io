@@ -1,6 +1,6 @@
 # 💼 Portafolio de Hallking Quesada Medina
 
-![Portafolio Screenshot](img/preview.png)
+![Portafolio Screenshot](img/PortafolioScreenshot.png)
 
 Bienvenido/a a mi portafolio personal. Aquí encontrarás una selección de mis **proyectos de desarrollo web**, mi **trayectoria académica**, certificaciones y habilidades técnicas.  
 Diseñado para ser **rápido, responsive y bilingüe** (Español 🇩🇴 / Inglés 🇬🇧).

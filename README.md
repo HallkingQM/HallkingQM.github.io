@@ -70,6 +70,6 @@ El cambio de idioma se realiza desde los iconos de bandera en la barra de navega
 📜 Licencia
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo con la debida atribución.
 
-💡 Autor: Hallking Quesada Medina
-📧 HallkingQM@Hotmail.com
-🔗 LinkedIn | GitHub | X (Twitter)
+-💡 Autor: Hallking Quesada Medina
+-📧 HallkingQM@Hotmail.com
+-🔗 LinkedIn | GitHub | X (Twitter)

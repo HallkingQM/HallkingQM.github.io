@@ -1,13 +1,57 @@
-# HallkingQM 💚
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
-> - niñita
+# Portafolio Personal - Hallking Quesada Medina
 
-## En este curso vemos de todo
-* Todos los comandos de Git
-* El flujo de trabajo en Github
-* El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+![Captura del Portafolio](img/preview.png)
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+## 📌 Descripción
+Este es mi portafolio personal, donde presento mi trayectoria académica, certificaciones profesionales, habilidades técnicas y proyectos de desarrollo.  
+Está diseñado para ser totalmente responsivo, con un estilo moderno y soporte bilingüe (Español 🇩🇴 / Inglés 🇬🇧).
+
+## 🚀 Características
+- Diseño adaptable para computadoras y dispositivos móviles.
+- Sección con mi historial académico y certificaciones.
+- Galería de proyectos con descripciones y enlaces a demos en vivo y repositorios en GitHub.
+- Navegación bilingüe con iconos de bandera para cambiar de idioma.
+- Integración con redes sociales: LinkedIn, GitHub y X (Twitter).
+- Etiquetas **Open Graph** optimizadas para una mejor visualización en redes sociales.
+
+## 🛠 Tecnologías utilizadas
+- **HTML5** y **CSS3**
+- **Bootstrap 5**
+- **Bootstrap Icons**
+- **JavaScript (Vanilla)**
+- **Chart.js** para la visualización de habilidades
+- **Imágenes responsivas** (PNG, SVG)
+- **Meta Tags** con protocolo Open Graph
+
+## 📂 Estructura del proyecto
+
+project/
+│
+├── css/
+│ ├── bootstrap.min.css
+│ └── style.css
+│
+├── img/
+│ ├── HallkingFoto-min.png
+│ ├── DO.png
+│ ├── EN.png
+│ └── preview.png
+│
+├── js/
+│ ├── bootstrap.bundle.min.js
+│ └── charts.js
+│
+├── index.html
+├── educacion.html
+├── proyectos.html
+├── EN/
+│ ├── education.html
+│ └── projects.html
+└── README.md
+
+## 🔧 Instalación y uso
+1. Clonar este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/portfolio.git
+
+npx serve

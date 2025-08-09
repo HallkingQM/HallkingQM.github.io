@@ -25,7 +25,8 @@ Está diseñado para ser totalmente responsivo, con un estilo moderno y soporte 
 
 ## 📂 Estructura del proyecto
 
-```project/
+```
+project/
 │
 ├── css/
 │ ├── bootstrap.min.css
@@ -47,7 +48,8 @@ Está diseñado para ser totalmente responsivo, con un estilo moderno y soporte 
 ├── EN/
 │ ├── education.html
 │ └── projects.html
-└── README.md```
+└── README.md
+```
 
 ## 🔧 Instalación y uso
 1. Clonar este repositorio:

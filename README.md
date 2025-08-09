@@ -25,7 +25,7 @@ Está diseñado para ser totalmente responsivo, con un estilo moderno y soporte 
 
 ## 📂 Estructura del proyecto
 
-project/
+```project/
 │
 ├── css/
 │ ├── bootstrap.min.css
@@ -47,11 +47,27 @@ project/
 ├── EN/
 │ ├── education.html
 │ └── projects.html
-└── README.md
+└── README.md```
 
 ## 🔧 Instalación y uso
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/tuusuario/portfolio.git
 
-npx serve
+
+2. Para ejecutarlo en un servidor local, puedes usar la extensión Live Server de VS Code o cualquier servidor estático:
+   ```bash
+    npx serve
+
+🌐 Idiomas disponibles
+-Español (es_DO) → Versión por defecto
+-Inglés (en_US) → Versión alternativa
+
+El cambio de idioma se realiza desde los iconos de bandera en la barra de navegación.
+
+📜 Licencia
+Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo con la debida atribución.
+
+💡 Autor: Hallking Quesada Medina
+📧 HallkingQM@Hotmail.com
+🔗 LinkedIn | GitHub | X (Twitter)

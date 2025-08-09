@@ -37,6 +37,7 @@ project/
 ├── proyectos.html
 ├── EN/
 │ ├── education.html
+│ ├── index.html
 │ └── projects.html
 ├──README.md
 └──README_EN.md

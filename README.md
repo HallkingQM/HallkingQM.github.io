@@ -9,9 +9,9 @@ Diseñado para ser **rápido, responsive y bilingüe** (Español 🇩🇴 / Ingl
 
 ## 🚀 Tecnologías Clave
 - **Frontend:** HTML5, CSS3, Bootstrap 5, Bootstrap Icons
-- **Backend:** PHP, MySQL, Laravel
+- **Backend:** PHP, MySQL
 - **Otros:** JavaScript, Chart.js, Docker, Git/GitHub
-- **IA y Contenidos Digitales:** ChatGPT, DALL·E, Hugging Face
+- **IA y Contenidos Digitales:** ChatGPT, Gemini
 
 ---
 
@@ -38,31 +38,10 @@ Directorio interactivo para búsqueda y contacto de personal en una organizació
 
 ---
 
-### 🛒 [E-commerce de Ropa](#)
-Tienda online con carrito, pasarela de pago y panel administrativo.  
-**Tecnologías:** Laravel, Vue.js, MySQL  
-[🔗 Live Demo](#) | [💻 Código](#)
-
----
-
-### 🌦 [Weather API](#)
-API RESTful que proporciona datos meteorológicos en tiempo real.  
-**Tecnologías:** Python (Flask)  
-[📄 Documentación](#) | [💻 Código](#)
-
----
-
-### ✍ [Blog Personal](#)
-Plataforma de blog con gestión de contenido (CMS) desde cero.  
-**Tecnologías:** Laravel, Vue.js  
-[🔗 Live Demo](#) | [💻 Código](#)
-
----
-
 ## 📜 Sobre mí
-Soy **Desarrollador Full-Stack** con experiencia en proyectos web, integración de APIs, optimización de rendimiento y herramientas de Inteligencia Artificial aplicadas al desarrollo.
+Soy **Desarrollador Full-Stack** con experiencia en proyectos web, optimización de rendimiento y herramientas de Inteligencia Artificial aplicadas al desarrollo.
 
-📧 [HallkingQM@Hotmail.com](mailto:HallkingQM@Hotmail.com)  
+📧 [HallkingQM@Hotmail.com](mailto:HallkingQM@Hotmail.com) <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/hallkingquesadamedina/) | [GitHub](https://github.com/HallkingQM) | [X (Twitter)](https://x.com/HallkingM66318)
 
 ---
